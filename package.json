@@ -1,0 +1,15 @@
+{
+  "name": "agoldencrown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "albertfelix",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
